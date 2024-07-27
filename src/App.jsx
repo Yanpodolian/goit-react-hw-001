@@ -1,11 +1,11 @@
 import "./App.css";
 import Profile from "./componets/Profile/Profile";
-import userData from "./userData.json";
+import userData from "./componets/userData.json";
 import FriendList from "./componets/FriendList/FriendList";
-import friends from "./friends.json";
+import friends from "./componets/friends.json";
 import TransactionHistory from "./componets/TransactionHistory/TransactionHistory";
 
-import transactions from "./transactions.json";
+import transactions from "./componets/transactions.json";
 
 const App = () => {
   return (
