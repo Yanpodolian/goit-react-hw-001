@@ -1,0 +1,13 @@
+.transaction {
+  max-width: 250px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.transactionList {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
